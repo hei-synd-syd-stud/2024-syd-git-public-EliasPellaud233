@@ -18,7 +18,9 @@
 
 -"ADD: README file" qui est le message que l'on a spécifié au moment de commit.
 
-### Task 6
+### Task 6: Nous avons spécifier le commit initial ce qui nous a fait revenir à la première version ou le answers.md était "vierge" et que README.md n'était pas encore crée. Au moment de revenir sur le main, la version du fichier est revenu avec les modifications apporté( answers.md modifié et README.md créé et modifié)
+
+( j'ai oublier de commit à ce moment la)
 
 ## Gitgraph
 
